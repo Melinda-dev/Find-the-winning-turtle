@@ -78,37 +78,6 @@ if user_bet == winner:
 else:
     print("Sorry, You lose the game!")
 
-#   return fastest_turtle
-
-#find_fastest_turtle()
-
-# turtle_color_speed[tim.color()[0]] = tim.speed() # ?
-# while is_race_on:
-#
-#     :
-#        winner_color = tim.color()[0]
-#        winner_speed = tim.speed()
-#
-#        print("Winner color:", winner_color)
-#        print("Winner speed:", winner_speed)
-#
-#        is_race_on = False  # End the race
-#
-# turtle.done()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 screen.exitonclick()
 
